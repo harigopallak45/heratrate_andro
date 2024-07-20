@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285863391065",
+    "project_id": "thyroid-88484",
+    "storage_bucket": "thyroid-88484.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285863391065:android:fd208d1e87cee0473a6648",
+        "android_client_info": {
+          "package_name": "com.harigopallak.thyroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-LcBNT-Ym_X9Kh85a43fKPYrgak0TFPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
